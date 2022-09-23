@@ -1,6 +1,6 @@
 # NFluidEX Hardware
-Design and assembly files for manufacturing of printed circuit board and assembly of potentiostat
+Design and assembly files for manufacturing of NFluidEX potentiostat
 
-For Arduino firmware files for potentiostat programming, please see:
+For Arduino firmware files, please see [here](https://github.com/justindevries/NFluidEX/tree/main/Arduino).
 
-For Android/iOS source code for smartphone app for wireless interfacing to NFluidEX potentiostat, please see:
+For Android/iOS source code for smartphone app, please see [here](https://github.com/justindevries/NFluidEX/tree/main/App).
