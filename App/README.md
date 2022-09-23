@@ -1,6 +1,6 @@
 # NFluidEX App
-Android/iOS source code for smartphone app for wireless interfacing to NFluidEX potentiostat
+Android/iOS source code for smartphone app
 
-For Arduino firmware files for PCB programming, please see:
+For Arduino firmware files, please see [here](https://github.com/justindevries/NFluidEX/tree/main/Arduino).
 
-For design files for PCB manufacturing and assembly of NFluidEX potentiostat, please see:
+For design and assembly files, please see [here](https://github.com/justindevries/NFluidEX/tree/main/Hardware).
