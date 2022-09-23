@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-03-17T17:24:38Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.99,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "NFluidEX_v1"
+        },
+        "Owner": "Justin de Vries <justin.devries@mail.mcgill.ca>",
+        "Size": {
+            "X": 73.66,
+            "Y": 88.9
+        }
+    }
+}
